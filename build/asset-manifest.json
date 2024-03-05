@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d64276f.css",
+    "main.js": "/static/js/main.0a4ffbf6.js",
+    "static/media/bgCardHome.svg": "/static/media/bgCardHome.b1c3883cf51f0b504be94f91d76031be.svg",
+    "static/media/montain.png": "/static/media/montain.57f16913336ea9588551.png",
+    "static/media/ServiciosImages.svg": "/static/media/ServiciosImages.2d28fdf665a60bceda696147e5804041.svg",
+    "static/media/Group.svg": "/static/media/Group.9fde19761d7f4007527a650d79b0c8c4.svg",
+    "static/media/ImageHomeSection2.svg": "/static/media/ImageHomeSection2.c54b5d04d59ec204366039e0fcfd9f2b.svg",
+    "static/media/manWorking.svg": "/static/media/manWorking.f2c6a0304b2586e35507ddad5d60248c.svg",
+    "static/media/manSettings.svg": "/static/media/manSettings.03ab363caeb94f7e3d2e2fa5e05724a6.svg",
+    "static/media/demo.jpeg": "/static/media/demo.6456f67dece661182f30.jpeg",
+    "static/media/profile.svg": "/static/media/profile.b8428432db0267d9f94e70112e78d5e9.svg",
+    "index.html": "/index.html",
+    "static/media/Star.svg": "/static/media/Star.7d56e63b62bd135799f695e8839250f4.svg",
+    "main.9d64276f.css.map": "/static/css/main.9d64276f.css.map",
+    "main.0a4ffbf6.js.map": "/static/js/main.0a4ffbf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d64276f.css",
+    "static/js/main.0a4ffbf6.js"
+  ]
+}
